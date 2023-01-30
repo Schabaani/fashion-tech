@@ -1,4 +1,4 @@
-# Welcome to diet-doctor-eat!
+# Welcome to Fashion Tech!
 
 This project is based on React Native `0.69.4` and `Typescript`.
 
